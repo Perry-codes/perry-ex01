@@ -13,11 +13,11 @@ Output welcome message
 
  */
 
-package ex01;
+package exercise01;
 
 import java.util.Scanner;
 
-public class App {
+public class Solution01 {
 
     public static void main(String[] args) {
 
