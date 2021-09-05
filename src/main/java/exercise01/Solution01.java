@@ -23,7 +23,7 @@ public class Solution01 {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("What is your name? ");
+        System.out.print("What is your name? ");
 
         String userName = sc.nextLine();
 
